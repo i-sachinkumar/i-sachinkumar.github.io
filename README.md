@@ -1,2 +1,2 @@
-# DevComm Project - [here](http://devcomm.me/project)
+# DevComm Project - [here](https://devcomm.me/project)
 
